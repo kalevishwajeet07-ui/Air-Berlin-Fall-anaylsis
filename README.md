@@ -651,7 +651,7 @@ This project is released for **academic and research purposes only**.
 **Citation:**
 ```
 [Vishwajeet]. (2024). Market Concentration Analysis Following Air Berlin Insolvency.
-[University Name], Master's Thesis. GitHub: [Repository URL]
+[City University of Applied Sciences Hochschule Bremen], Master's Thesis. GitHub: [Repository URL]
 ```
 
 ---
@@ -670,8 +670,8 @@ This project is released for **academic and research purposes only**.
 For questions, collaboration inquiries, or data requests:
 
 - **Email:** [kalevishwajeet07@gmail.com]
-- **Institution:** [Your University]
-- **Thesis Supervisor:** [Supervisor Name]
+- **Institution:** [City University of Applied Sciences Hochschule Bremen]
+- **Thesis Supervisor:** [Prof. Hans Martin Niemeier and Mr. Shravan Kumar]
 
 ---
 
