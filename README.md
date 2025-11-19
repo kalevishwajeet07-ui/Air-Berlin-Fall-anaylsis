@@ -669,7 +669,7 @@ This project is released for **academic and research purposes only**.
 
 For questions, collaboration inquiries, or data requests:
 
-- **Email:** [Your Academic Email]
+- **Email:** [kalevishwajeet07@gmail.com]
 - **Institution:** [Your University]
 - **Thesis Supervisor:** [Supervisor Name]
 
