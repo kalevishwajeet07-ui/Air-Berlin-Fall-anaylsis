@@ -1,0 +1,47 @@
+Airport,Season,Season Name,HHI,Market Classification
+COMPREHENSIVE HHI ANALYSIS - GERMAN AIRPORTS,,,,
+Post Air Berlin Collapse Market Concentration Study,,,,
+,,,,
+HHI INTERPRETATION GUIDE:,,,,
+"Below 1,500 = Unconcentrated (Competitive) Market",,,,
+"1,500 to 2,500 = Moderately Concentrated Market",,,,
+"Above 2,500 = Highly Concentrated Market",,,,
+"Maximum = 10,000 (Monopoly)",,,,
+,,,,
+SEASONAL DATA:,,,,
+,,,,
+DUS,S15,Summer 2015,2527.17,Highly Concentrated
+DUS,S16,Summer 2016,2536.13,Highly Concentrated
+DUS,S17,Summer 2017,2522.48,Highly Concentrated
+DUS,S18,Summer 2018,2770.47,Highly Concentrated
+DUS,S19,Summer 2019,3398.46,Highly Concentrated
+FRA,S15,Summer 2015,4516.16,Highly Concentrated
+FRA,S16,Summer 2016,4630.05,Highly Concentrated
+FRA,S17,Summer 2017,4663.13,Highly Concentrated
+FRA,S18,Summer 2018,4552.2,Highly Concentrated
+FRA,S19,Summer 2019,4657.05,Highly Concentrated
+HAM,S15,Summer 2015,0.0,Unconcentrated (Competitive)
+HAM,S16,Summer 2016,2642.7,Highly Concentrated
+HAM,S17,Summer 2017,2831.06,Highly Concentrated
+HAM,S18,Summer 2018,3347.12,Highly Concentrated
+HAM,S19,Summer 2019,3572.57,Highly Concentrated
+MUC,S15,Summer 2015,4210.46,Highly Concentrated
+MUC,S16,Summer 2016,3938.98,Highly Concentrated
+MUC,S17,Summer 2017,4137.54,Highly Concentrated
+MUC,S18,Summer 2018,4668.3,Highly Concentrated
+MUC,S19,Summer 2019,5072.88,Highly Concentrated
+STR,S15,Summer 2015,2826.8,Highly Concentrated
+STR,S16,Summer 2016,2877.43,Highly Concentrated
+STR,S17,Summer 2017,3085.88,Highly Concentrated
+STR,S18,Summer 2018,3654.43,Highly Concentrated
+STR,S19,Summer 2019,3344.3,Highly Concentrated
+SXF,S15,Summer 2015,6297.81,Highly Concentrated
+SXF,S16,Summer 2016,6542.73,Highly Concentrated
+SXF,S17,Summer 2017,7412.0,Highly Concentrated
+SXF,S18,Summer 2018,6833.02,Highly Concentrated
+SXF,S19,Summer 2019,7125.82,Highly Concentrated
+TXL,S15,Summer 2015,3177.85,Highly Concentrated
+TXL,S16,Summer 2016,3055.94,Highly Concentrated
+TXL,S17,Summer 2017,3208.02,Highly Concentrated
+TXL,S18,Summer 2018,2515.74,Highly Concentrated
+TXL,S19,Summer 2019,3109.9,Highly Concentrated

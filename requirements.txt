@@ -1,0 +1,29 @@
+# ============================================================================
+# Air Berlin Collapse Analysis - Python Dependencies
+# ============================================================================
+#
+# Project: Market Concentration Analysis Following Air Berlin Insolvency
+# Author: Thesis Research Project
+# Python Version: 3.7+
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# ============================================================================
+
+# Core Data Processing
+# ----------------------------------------------------------------------------
+pandas>=1.3.0,<2.0.0          # Data manipulation and analysis
+numpy>=1.21.0,<2.0.0           # Numerical computing
+
+# Visualization
+# ----------------------------------------------------------------------------
+matplotlib>=3.4.0,<4.0.0       # Plotting and visualization
+seaborn>=0.11.0,<1.0.0         # Statistical data visualization
+
+# Optional: Enhanced Jupyter Support
+# ----------------------------------------------------------------------------
+# Uncomment the following if running analyses in Jupyter notebooks:
+# jupyter>=1.0.0
+# ipython>=7.0.0
+# ipywidgets>=7.6.0
